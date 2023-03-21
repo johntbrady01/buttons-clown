@@ -1,0 +1,119 @@
+.background {
+    background-color: white;
+ }
+ 
+ .headerContainer{
+     display: flex;
+     justify-content: center;
+     background-color:rgb(178, 252, 161);
+     height: 90px;
+     
+ }
+ 
+ .bar{
+     width:100%;
+     background-color: rgb(246, 64, 64);
+     height:20px;
+     margin-bottom: 30px;
+ }
+ 
+ .header{
+   color: rgb(246, 90, 228);
+   font-size: 35px;
+ }
+
+ .balloons {
+    padding-left: 50px;
+    padding-right: 50px;
+ }
+ 
+ 
+ .field{
+     display:flex;
+     flex-direction: column;
+     justify-content:space-around;
+     padding-bottom: 2%;
+     padding-left: 15% ;
+     padding-right: 15% ;
+ 
+ }
+ 
+ .button {
+    margin-left: 15%;
+    background-color:rgb(253,217,85);
+    color:rgb(0, 0, 0);
+    font-weight: 800;
+    margin-top:20px;
+ }
+ 
+ .label {
+     color:rgb(33, 58, 241);
+     font-size:20px;
+ }
+ 
+ .reservationFormContainer {
+     display:flex;
+     justify-content: space-evenly;
+     background-color: rgb(225, 199, 250);
+     border-color:rgb(41, 248, 86);
+     border-style:dotted ;
+     border-width: 4px;
+     width:75%;
+     padding:20px;
+     margin: auto;
+ }
+
+ .reservationForm{
+    width:50%
+ }
+
+ .clown {
+    width: 250px;
+    height:300px;
+    padding-bottom: 20px;
+ }
+
+ .clownName {
+    color:rgb(228, 103, 1);
+    font-size:20px;
+    padding-left: 20px;
+ }
+
+ 
+ .serviceContainer {
+     display:flex;
+     justify-content: space-between;
+     background-color: rgb(255, 254, 215);
+     border-color:rgb(248, 41, 203);
+     border-style:dotted ;
+     border-width: 4px;
+     margin-top: 50px;
+     margin-left: 11%;
+     margin-right:11%;
+     padding-bottom: 20px;
+     padding-right: 90px;
+     padding-left: 90px;
+     padding-top: 20px;
+ }
+ 
+ .serviceTitle{
+  
+     color: rgb(200, 2, 194);
+     padding-bottom: 20px;
+     margin-left: 120px;
+
+ }
+ 
+ .listItem {
+     color:rgb(2, 9, 200);
+     font-size: medium;
+ }
+ .listItemCom {
+    color:rgb(247, 128, 0);
+     font-size: medium;
+
+ }
+
+ .check {
+    font-size: x-large;
+ }

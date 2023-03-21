@@ -1,0 +1,82 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completions": [
+    {
+      "reservationId": 1,
+      "clownId": 1,
+      "date_created": 1679427075569,
+      "id": 1
+    },
+    {
+      "reservationId": 5,
+      "clownId": 2,
+      "date_created": 1679434435856,
+      "id": 2
+    },
+    {
+      "reservationId": 6,
+      "clownId": 1,
+      "date_created": 1679435098775,
+      "id": 3
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "parentName": "Clare",
+      "kidName": "John",
+      "amountOfKids": 10,
+      "reservationDate": "January 7th",
+      "reservationLength": 4
+    },
+    {
+      "parentName": "Bob ",
+      "kidName": "Dash",
+      "amountOfKids": "3",
+      "reservationDate": "October 24th",
+      "reservationLength": "10",
+      "id": 2
+    },
+    {
+      "parentName": "Clare",
+      "kidName": "Dan",
+      "amountOfKids": "10",
+      "reservationDate": "January 7th",
+      "reservationLength": "4",
+      "id": 3
+    },
+    {
+      "parentName": "Homer",
+      "kidName": "Bart",
+      "amountOfKids": "6",
+      "reservationDate": "December 17th",
+      "reservationLength": "4",
+      "id": 4
+    },
+    {
+      "parentName": "Barry",
+      "kidName": "Bart",
+      "amountOfKids": "3",
+      "reservationDate": "November 3rd",
+      "reservationLength": "2",
+      "id": 5
+    },
+    {
+      "parentName": "Rob",
+      "kidName": "Jackson",
+      "amountOfKids": "0",
+      "reservationDate": "March 21st",
+      "reservationLength": "1",
+      "id": 6
+    }
+  ]
+}
